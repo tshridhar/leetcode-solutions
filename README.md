@@ -1,2 +1,2 @@
 # leetcode-solutions
-Some leetcode solutions in python
+Some solutions from the last few problems written in Python in ACM
